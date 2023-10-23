@@ -1,0 +1,26 @@
+﻿
+Daily average: 			year-day-mean(calendar-day-mean(dailyTemp))
+Record high daily average:	year-day-max(calendar-day-mean(dailyTemp))
+Record low daily average:	year-day-min(calendar-day-mean(dailyTemp))
+
+Average high:			year-day-mean(calendar-day-max(dailyTemp))
+Lowest high:			year-day-min(calendar-day-max(dailyTemp))
+Record high:			year-day-max(calendar-day-max(dailyTemp))
+
+Average low:			year-day-mean(calendar-day-min(dailyTemp))
+Highest low:			year-day-max(calendar-day-min(dailyTemp))
+Record low:			year-day-min(calendar-day-min(dailyTemp))
+
+-----------------------------------
+
+Monthly average:		year-month-mean(calendar-month-mean(dailyAvgTemp))
+Record high monthly avg:	year-month-max(calendar-month-mean(dailyAvgTemp))
+Record low monthly avg:		year-month-min(calendar-month-mean(dailyAvgTemp))
+
+Average high:			year-month-mean(calendar-month-max(dailyAvgTemp))
+Lowest high:			year-month-min(calendar-month-max(dailyAvgTemp))
+Record high:			year-month-max(calendar-month-max(dailyAvgTemp))
+
+Average low:			year-month-mean(calendar-month-min(dailyAvgTemp))
+Highest low:			year-month-max(calendar-month-min(dailyAvgTemp))
+Record low:			year-month-min(calendar-month-min(dailyAvgTemp))
