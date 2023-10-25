@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Virginia Key, FL
-    url: https://mdgrossi.github.io/climatologyweb/virginiaKeyFl/README.md
+    url: https://mdgrossi.github.io/climatologyweb/virginiaKeyFl/
     desc: NOAA CO-OPS Site 8723214 located on a pier at the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science in Biscayne Bay, Florida
     hightlight: NEW
 
