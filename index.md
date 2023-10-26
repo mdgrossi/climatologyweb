@@ -10,7 +10,5 @@ This site contains climatologies (highs, lows, and averages) for atmospheric and
   <summary>
     How are these statistics calculated?
   </summary>
-  <code>
-  Data are retrieved from [NOAA CO-OPS](https://www.noaa.gov). Data include air temperature, barometric pressure, wind speed, water temperature, and water level, though not all stations contain the same sensor suite...
-  </code>
+  Data are retrieved from "[NOAA CO-OPS]""(https://www.noaa.gov)". Data include air temperature, barometric pressure, wind speed, water temperature, and water level, though not all stations contain the same sensor suite...
 </details>
