@@ -47,8 +47,8 @@ footer_entries:
     url: https://orcid.org/0000-0002-8550-3189
 
 misc_entries:
-  - title: Read about how these statistics are calculated here.
+  - title: Read about how these statistics are calculated.
     url: about
 
-  - title: This project and its content were inspired by Brian McNoldy at the University of Miami whose "Climatology of Virginia Key, FL" site never ceased to provide insightful weather perspectives during my time at the Rosentiel School of Marine, Atmospheric, and Earth Science.
+  - title: Giving credit where credit is due: This project is inspired by Brian McNoldy at the University of Miami whose "Climatology of Virginia Key, FL" site never ceased to provide insightful weather perspectives during my time at the Rosentiel School of Marine, Atmospheric, and Earth Science.
     url: https://bmcnoldy.earth.miami.edu/vk/
