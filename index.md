@@ -2,5 +2,7 @@
 layout: home
 ---
 
-## Test
-Testing adding text to the home page.
+## Methodology
+<details>
+  Data are retrieved from [NOAA CO-OPS](www.noaa.gov)...
+</details>
