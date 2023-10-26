@@ -10,4 +10,4 @@ layout: post
 
 {% include figure-virginiakeyfl-watertemperature-daily.html %}
 
-{% include figure-virginiakeyfl-watertemperature-daily.html %}
+{% include figure-virginiakeyfl-watertemperature-monthly.html %}
