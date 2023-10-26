@@ -1,6 +1,5 @@
 ---
 layout: post
-author: mdgrossi
 ---
 
 # Climatology of Virginia Key, Florida
