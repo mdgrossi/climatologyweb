@@ -2,10 +2,9 @@ title: Climatology
 author: mdgrossi
 url: https://mdgrossi.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This site contains climatologies (highs, lows, and averages) for atmospheric and oceanic variables derived from NOAA CO-OPS weather and tide data.
+  This site contains climatologies (highs, lows, and averages) for atmospheric and oceanic variables derived from NOAA CO-OPS weather and tide observations.
   Some sites are updated daily; others monthly.
-  Data include air temperature, barometric pressure, wind speed, water temperature, and water level.
-  Not all stations contain the same sensors, so not all variables are available for all sites.
+  Data include air temperature, barometric pressure, wind speed, water temperature, and water level, though not all stations contain the same sensor suite.
   The sites included here are places I have lived and therefore have a personal connection and vested interest.
   
 permalink: /:slug
