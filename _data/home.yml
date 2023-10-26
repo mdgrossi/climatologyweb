@@ -6,36 +6,34 @@ navbar_entries:
     url: https://mdgrossi.github.io/about
 
 project_entries:
-  - title: Virginia Key, FL
-    url: https://mdgrossi.github.io/climatologyweb/virginiaKeyFl/
-    desc: NOAA CO-OPS Site 8723214 located on a pier at the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science in Biscayne Bay, Florida
-    hightlight: NEW
-
   - title: Beaufort, NC (Coming soon)
     url: https://mdgrossi.github.io/climatologyweb/beaufortnc
     desc: NOAA CO-OPS Site 8656483 located on a pier at the Duke Marine Lab on Pivers Island at the mouth of the Newport River, North Carolina
     highlight: WIP
-    
+
   - title: Woods Hole, MA (Coming soon)
     url: https://mdgrossi.github.io/climatologyweb/woodsholema
     desc: NOAA CO-OPS Site 8447930 locaated on a pier at the Woods Hole Oceanographic Institute between Buzzards Bay and Vineyard Sound, Massachusetts
     highlight: WIP
-    
+
   - title: Naples, FL (Coming soon)
     url: https://mdgrossi.github.io/climatologyweb/naplesfl
     desc: NOAA CO-OPS Site 8725110 located on the Naples city pier in the Gulf of Mexico, Florida
     highlight: WIP
-    
-  - title: Bay St. Louis, MS (Coming soon)
-    url: https://mdgrossi.github.io/climatologyweb/baystlouisms
-    desc: NOAA CO-OPS Site 8747437 located on a platform just offshore of the Bay Waveland Yatch Club in Bay St. Louis, Mississippi
-    highlight: WIP
-     
-  - title: Lewes, DE (Coming soon)
+
+old_project_entries:  
+  - title: Lewes, DE
     url: https://mdgrossi.github.io/climatologyweb/lewesde
     desc: NOAA CO-OPS Site 8557380 located on a pier at the Lewes-Cape May Ferry terminal at the mouth of Delaware Bay
-    highlight: WIP
- 
+    
+   - title: Virginia Key, FL
+    url: https://mdgrossi.github.io/climatologyweb/virginiaKeyFl/
+    desc: NOAA CO-OPS Site 8723214 located on a pier at the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science in Biscayne Bay, Florida
+    
+  - title: Bay St. Louis, MS
+    url: https://mdgrossi.github.io/climatologyweb/baystlouisms
+    desc: NOAA CO-OPS Site 8747437 located on a platform just offshore of the Bay Waveland Yatch Club in Bay St. Louis, Mississippi
+    
 footer_entries:
   - title: LinkedIn
     url: https://www.linkedin.com/in/matthewgrossi
