@@ -1,12 +1,9 @@
 navbar_entries:
-  - title: about
+  - title: Home
+    url: https://mdgrossi.github.io
+
+  - title: CV
     url: about
-
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
   - title: Virginia Key, FL
