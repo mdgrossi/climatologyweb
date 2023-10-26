@@ -2,7 +2,11 @@ title: Climatology
 author: mdgrossi
 url: https://mdgrossi.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Atmospheric and oceanic climatology derived from NOAA CO-OPS weather and tide data.
+  This site contains climatologies (highs, lows, and averages) for atmospheric and oceanic variables derived from NOAA CO-OPS weather and tide data.
+  Some sites are updated daily; others monthly.
+  Data include air temperature, barometric pressure, wind speed, water temperature, and water level.
+  Not all stations contain the same sensors, so not all variables are available for all sites.
+  The sites included here are places I have lived and therefore have a personal connection and vested interest.
   
 permalink: /:slug
 
@@ -16,7 +20,7 @@ theme_config:
   appearance_toggle: true # if appearance can be switched by user
   back_home_text: "Back" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description
+  show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
