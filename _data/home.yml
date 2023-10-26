@@ -47,7 +47,7 @@ footer_entries:
     url: https://orcid.org/0000-0002-8550-3189
 
 misc_entries:
-  - title: this is an example vertical list
+  - title: Data are retrieved from [test](www.noaa.gov) and processed to make climatology. Before spending too much time writing this, let's see how it handles big blocks of text. It may not be worthwhile.
     url: false
 
   - title: you can show or hide using a boolean flag in _config.yml
