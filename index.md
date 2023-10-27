@@ -6,7 +6,7 @@ layout: home
 This site contains climatologies (highs, lows, and averages) for atmospheric and oceanic variables derived from NOAA CO-OPS weather and tide observations. Current sites are updated daily; archived sites are updated less frequently. This project is inspired by [Brian McNoldy](https://bmcnoldy.earth.miami.edu/) at the [University of Miami](https://welcome.miami.edu), whose long-standing ["Climatology of Virginia Key, FL" site](https://bmcnoldy.earth.miami.edu/vk/) never ceased to provide insightful weather perspectives during my time at the [Rosenstiel School of Marine, Atmospheric, and Earth Science](https://www.earth.miami.edu/).
 
 ### Data
-<details style="font-size:10px;">
+<details style="font-size:12px;">
   <summary>
     What are these data?
   </summary>
@@ -26,7 +26,7 @@ This site contains climatologies (highs, lows, and averages) for atmospheric and
 </details>
 
 ### Methodology
-<details>
+<details style="font-size:12px;">
   <summary>
     How are these statistics calculated?
   </summary>
