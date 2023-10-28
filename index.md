@@ -6,9 +6,9 @@ layout: home
 This site contains climatologies (highs, lows, and averages) for atmospheric and oceanic variables derived from NOAA CO-OPS weather and tide observations. Current sites are updated daily; archived sites are updated less frequently. This project is inspired by [Brian McNoldy](https://bmcnoldy.earth.miami.edu/) at the [University of Miami](https://welcome.miami.edu), whose long-standing ["Climatology of Virginia Key, FL" site](https://bmcnoldy.earth.miami.edu/vk/) never ceased to provide insightful weather perspectives during my time at the [Rosenstiel School of Marine, Atmospheric, and Earth Science](https://www.earth.miami.edu/).
 
 ### Data
-<details style="font-size:12px;">
+<details style="font-size:14px;">
   <summary>
-    What are these data?
+    <h2> Data </h2>
   </summary>
   <p>The <a href="https://www.noaa.gov">National Oceanographic and Atmospheric Administration (NOAA)</a> <a href="https://oceanservice.noaa.gov/">National Ocean Service (NOS)</a> Center for Operational Oceanographic Products and Services (CO-OPS) operates hundreds of water level observation stations along the United States coasts and Great Lakes. This <a href="https://tidesandcurrents.noaa.gov/nwlon.html">National Water Level Observation Network (NWLON)</a>, part of the <a href="https://ioos.noaa.gov">Integrated Ocean Observing System (IOOS)</a>, provides the data from which official tidal predictions are generated. Most of these observation stations also observe water temperature as well as air temperature, barometric pressure, and wind. All of these data are publically available via the NOAA CO-OPS <a href="https://tidesandcurrents.noaa.gov/">Tides and Currents</a> data portal.</p>
   
