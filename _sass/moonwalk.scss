@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-$content-width: 100%;
-@import "minima";
-
 html { height: 100%; }
 
 body {
@@ -30,7 +27,9 @@ hr.page-break {
   &:after { content: attr(data-content) '-----' }
 }
 
-p { margin: 1em 0; }
+#container p { margin: 1em 0; 
+  content-width: 100%;
+}
 
 li { margin: 0.4em 0; }
 
