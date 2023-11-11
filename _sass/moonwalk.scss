@@ -41,7 +41,7 @@ li { margin: 0.4em 0; }
 .w {
   max-width: 720px;
   margin: 0 auto;
-  //padding: 4em 2em;//
+  padding: 4em 2em;
 }
 
 table, th, td {
@@ -115,6 +115,8 @@ html[data-theme="light"] { @include light-appearance; }
 html, body {
     background-color: var(--bg);
     color: var(--text);
+    margin: 0px;
+    padding: 0px;
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--headings);
