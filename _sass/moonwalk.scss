@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
+$content-width: 100%;
+
 html { height: 100%; }
 
 body {
@@ -14,12 +16,6 @@ pre, code {
   font-family: "Roboto Mono", "Courier New", monospace;
   font-size: 0.9rem;
 }
-
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-$content-width: 100%;
-
 
 h2, h3, h4, h5 { margin-top: 1.5em; }
 
