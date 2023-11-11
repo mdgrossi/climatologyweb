@@ -27,9 +27,7 @@ hr.page-break {
   &:after { content: attr(data-content) '-----' }
 }
 
-#container p { margin: 1em 0; 
-  content-width: 100%;
-}
+p { margin: 1em 0; }
 
 li { margin: 0.4em 0; }
 
