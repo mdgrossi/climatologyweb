@@ -1,6 +1,3 @@
----
-layout: post
----
 
 # Climatology of Virginia Key, Florida
 
